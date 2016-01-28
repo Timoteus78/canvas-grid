@@ -1,2 +1,2 @@
-<input type="file" (change)="processImage($event)"/>
-<canvas id="image-canvas"></canvas>
+<input type="file" (change)="loadImage($event)"/>
+<canvas id="image-canvas" (click)="handleZoom($event)"></canvas>
