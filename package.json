@@ -1,0 +1,23 @@
+{
+  "name": "canvas-grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "angular2-google-maps": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timoteus78/canvas-grid.git"
+  },
+  "author": "Timo van der Schuit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timoteus78/canvas-grid/issues"
+  },
+  "homepage": "https://github.com/Timoteus78/canvas-grid#readme"
+}
